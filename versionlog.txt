@@ -1,3 +1,6 @@
 1.0: 	Basic release.
 1.1: 	Bug causing line to be drawn from end to start of graph when starting to redraw graph fixed.
 	cc-License added.
+1.2:	Pause added ("SPACE").
+	Simulation slowdown added ("+" makes faster, "-" slower).
+	Reverse function added ("r", works only until beginning of the orbit).
